@@ -23,7 +23,7 @@ email: christoff@iij.ad.jp
 description: >- # this means to ignore newlines until "baseurl:"
   Landing page for data related to our study on Steam's infrastructure and
   content delivery network.
-domain: belthazaar.github.io
+domain: steam.iijlab.net
 # baseurl: /ExploringSteamPage # the subpath of your site, e.g. /blog
 url: "https://steam.iijlab.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: VMastr
